@@ -1,0 +1,4 @@
+*.bin
+*.bin.tmp
+*.dot
+joern-cli/
